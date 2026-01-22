@@ -9,3 +9,6 @@
 - Large-scale analytics projects
 - Streaming data pipelines
 - End-to-end data engineering systems
+
+**Tech Stack:**  
+Python · SQL · Apache Spark · Kafka · Power BI · AWS · Docker · Git
